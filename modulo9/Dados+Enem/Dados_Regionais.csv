@@ -1,0 +1,28 @@
+﻿Estado;Sigla;Capital;Região
+Roraima;RR;Boa Vista;Norte
+Amapá;AP;Macapá;Norte
+Amazonas;AM;Manaus;Norte
+Pará;PA;Belém;Norte
+Acre;AC;Rio Branco;Norte
+Rondônia;RO;Porto Velho;Norte
+Tocantins;TO;Palmas;Norte
+Maranhão;MA;São Luís;Nordeste
+Piauí;PI;Teresina;Nordeste
+Ceará;CE;Fortaleza;Nordeste
+Rio Grande do Norte;RN;Natal;Nordeste
+Paraíba;PB;João Pessoa;Nordeste
+Pernambuco;PE;Recife;Nordeste
+Alagoas;AL;Maceió;Nordeste
+Sergipe;SE;Aracaju;Nordeste
+Bahia;BA;Salvador;Nordeste
+Mato Grosso;MT;Cuiabá;Centro-oeste
+Distrito Federal;DF;Brasília;Centro-oeste
+Goiás;GO;Goiânia;Centro-oeste
+Mato Grosso do Sul;MS;Campo Grande;Centro-oeste
+Minas Gerais;MG;Belo Horizonte;Sudeste
+Espírito Santo;ES;Vitória;Sudeste
+Rio de Janeiro;RJ;Rio de Janeiro;Sudeste
+São Paulo;SP;São Paulo;Sudeste
+Paraná;PR;Curitiba;Sul
+Santa Catarina;SC;Florianópolis;Sul
+Rio Grande do sul;RS;Porto Alegre;Sul
